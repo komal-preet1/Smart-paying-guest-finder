@@ -1,0 +1,1 @@
+// optional JS for admin panel (empty for now)

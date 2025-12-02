@@ -1,0 +1,7 @@
+/* small responsive tweaks */
+    .card .display-6 { font-size: 2.2rem; }
+    @media (max-width: 576px) {
+      .card .display-6 { font-size: 1.6rem; }
+    }
+    .table-responsive { overflow-x:auto; }
+    body { background:#f8f9fa; }
